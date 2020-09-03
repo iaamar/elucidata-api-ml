@@ -7,6 +7,8 @@ python -m pip install flask
 ## Step 2 : run 
 python app.py
 
+
+## Solution at : 
    <h3> - Solution for Instruction Point 1 @ /one_pc  and @ /one_lpc  and @  /one_plasma respectively</h3>
     <h3> - Solution for Instruction Point 2 @ /two </h3>
     <h3> - Solution for Instruction Point 3 @ /three </h3>
