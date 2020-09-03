@@ -7,6 +7,10 @@ python -m pip install flask
 ## Step 2 : run 
 python app.py
 
+## Upload CSV file in root dir .
+
+elucidata.csv
+
 
 ## Solution at : 
    <h3> - Solution for Instruction Point 1 @ /one_pc  and @ /one_lpc  and @  /one_plasma respectively</h3>
